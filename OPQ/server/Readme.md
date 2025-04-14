@@ -128,5 +128,5 @@ You can use tools like Postman to test API routes once the server is up.
 All timestamps are set to auto-generate and update with row changes.
 
 🤝 Contribution
-Feel free to fork the repo, submit issues, or create pull requests to contribute to this project.s
+Feel free to fork the repo, submit issues, or create pull requests to contribute to this project.
 
