@@ -1,5 +1,25 @@
 # Project_OPQ
 
+This is the full-stack web application for the **OPQ1** project.
+It includes a frontend built with **React.js** and a backend powered by **Node.js**, **Express.js**, and **MySQL**.
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend:
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML**
+- **Tailwind CSS**
+
+### Backend:
+- **Node.js**
+- **Express.js**
+- **MySQL**
+
+---
+
 ## Overview
 
 This project is designed to help students explore and join various **courses** and **bootcamps** online. The platform provides a user-friendly interface for students to browse available courses, register for bootcamps, and raise queries regarding course details.
@@ -18,4 +38,4 @@ This project is designed to help students explore and join various **courses** a
 - Individuals interested in short-term or intensive training programs like bootcamps.
 
 
-## Thank you
+## Thank you for checking out **Project_OPQ**!  
